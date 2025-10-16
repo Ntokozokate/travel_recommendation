@@ -64,8 +64,6 @@ function setupSearch(data) {
   });
 }
 
-// ======== Display Results ========
-// ======== Display Results ========
 function displayResults(items) {
   const resultsDiv = document.getElementById("results");
 
